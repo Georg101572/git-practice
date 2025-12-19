@@ -3,3 +3,4 @@
 Практика Git — исправление TASK-3321
 три коммита
 Bugfix branch update
+git stash
