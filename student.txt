@@ -1,6 +1,8 @@
 ФИО: Яшкин Георг Анатольевич
 Группа: ПИ-430Б
-Практика Git — исправление TASK-3321
+
+Практика Git — версия main + исправление TASK-3321
+
 три коммита
-Bugfix branch update
+bugfix branch update
 git stash
